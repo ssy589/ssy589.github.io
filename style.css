@@ -1,9 +1,21 @@
 body {
-  font-family: 'helvetica neue', georgia, serif;
+  font-family: 'PT Sans', sans-serif;
   font-weight: 300;
   background: url(soccer.jpg) repeat;
+  color: blue;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto;
+}
+#experience {
+	border: ridge;
+	background-color: lightgray;
+	padding:20px
+	color: white;
+	float: center;
+
+h2 {
+  border-bottom: 2px solid gray;
+  color: black;
 }
