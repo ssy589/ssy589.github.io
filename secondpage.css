@@ -1,0 +1,45 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+  font-family: 'PT Sans', sans-serif;
+  color: blue;
+  background-color: black;
+  background: url(soccer.jpg); repeat
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+h2 {
+  border-bottom: 1px solid gray;
+}
+a { 
+  color: red;
+}
+a:hover {
+  color: purple;
+}
+p, li { 
+  font-size: 16px;
+  line-height: 24px;
+}
+img {
+  float: right;
+}
+#title {
+  float: left;
+}
+#hardwork {
+  float: right;
+  padding: 20px;
+
+}
+
+
+#summary {
+  clear: both;
+  color: white;
+  background-color: purple;
+  padding: 20px;
+  border: 2px solid black;
+  margin-top: 20px;
+}	
