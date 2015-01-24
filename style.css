@@ -2,7 +2,7 @@ body {
   font-family: 'PT Sans', sans-serif;
   font-weight: 300;
   background: url(soccer.jpg) repeat;
-  color: blue;
+  color: black;
 }
 #wrapper {
   width: 960px;
@@ -17,5 +17,11 @@ body {
 
 h2 {
   border-bottom: 2px solid gray;
-  color: black;
+  color: blue;
+}
+.jumbotron {
+padding: 30px;
+margin-bottom: 30px;
+color: purple;
+background-color: lightgray;
 }
