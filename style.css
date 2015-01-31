@@ -10,7 +10,7 @@ body {
 }
 #experience {
 	border: ridge;
-	background-color: lightgray;
+	background-color: blue;
 	padding:20px
 	color: white;
 	float: center;
@@ -23,5 +23,5 @@ h2 {
 padding: 30px;
 margin-bottom: 30px;
 color: purple;
-background-color: lightgray;
+background-color: blue;
 }

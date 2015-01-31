@@ -8,20 +8,13 @@ body {
   width: 960px;
   margin: 20px auto;
 }
-#experience {
-  border: ridge;
-  background-color: lightgray;
-  padding:20px
-  color: white;
-  float: center;
-
 h2 {
   border-bottom: 2px solid gray;
-  color: blue;
+  color: white;
 }
 .jumbotron {
 padding: 30px;
 margin-bottom: 30px;
-color: purple;
-background-color: lightgray;
+color: white;
+background-color: green;
 }
